@@ -17,7 +17,7 @@ import params
 # alefantos_id = 129099
 
 ##### Dictionary for different people leagues
-USER_LEAGUE = params.USER_LEAGUE #{"foufoulas":[348673]} # "alefantos":[80757], 
+USER_LEAGUE = params.USER_LEAGUE
 
 
 #PLAYER_HISTORY = "element-summary/{0}".format(player_id)
