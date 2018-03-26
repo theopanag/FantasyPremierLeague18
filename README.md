@@ -2,7 +2,7 @@
 
 ![alt tag](https://i.ytimg.com/vi/CRk9HpmSHNM/maxresdefault.jpg)
 
-A script to scrap the FPL website for information regarding the mini-league of your choice. It collects the info and saves it in a SQLite database so you can later on combine it with other software. I am using it to later on plot charts regarding various performance metrics of my mini-league members.
+A collection of modules to scrap the FPL website for information regarding the mini-league of your choice. It collects the info and saves it in a SQLite database so you can later on combine it with other software. I am using it to later on plot charts regarding various performance metrics of my mini-league members.
 
 Any suggestions for improvement are always welcome!
 
